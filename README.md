@@ -13,7 +13,7 @@
 
 ```js
 module.exports = {
-  // Create an app and get the ID at https://discord.com/developers/applications
-  clientId: "722506986121330839",
+  // Create an app and get the ID at https://discord.com/developers/applications.
+  clientId: "YOUR_ID_HERE",
 };
 ```
