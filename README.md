@@ -17,5 +17,3 @@ module.exports = {
   clientId: "722506986121330839",
 };
 ```
-
-1. Enjoy!
